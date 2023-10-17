@@ -2,7 +2,7 @@ body{
     background-color: #212121;
     color: aliceblue;
 }
- .banner{
+ .center{
     display: flex;
     height: 100vh;
     justify-content: center;
@@ -11,9 +11,9 @@ body{
  }
 
  #clock{
-    font-size: 12px;
+    font-size: 20px;
     padding: 20px 50px;
     margin-top: 12px;
     background-color: orange;
-    border-radius: 15px;
+    border-radius: 10px;
  }
